@@ -13,7 +13,7 @@
 | Artist | 4 |
 | Level Design | 1 |
 | Programmer | 1 |
-
+ปล. Asset เกือบทั้งหมดเป็นดาวน์โหลด ยกเว้นโมเดลยาน, หุ่นยนต์, เตาปิ้งและเนื้อ
 - เกมแนว 3D VR Cooking Simulation
 
 # Game Overview
