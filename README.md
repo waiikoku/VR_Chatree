@@ -34,3 +34,7 @@
 | Button | รายละเอียด |
 | ------ | ------ |
 | VR Controller | ควบคุมทุกอย่าง |
+
+# Class Diagram [Class Designer from VisualStudio]
+![Y3_Chatree_Diagram](https://user-images.githubusercontent.com/48912221/221421917-320eea30-25dc-40a6-b93e-bebd0fcaab80.png)
+
