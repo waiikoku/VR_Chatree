@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ActionBasedControllerManager" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkYEAiAwgCAAEDboIgABQIAEACADCIIMGAEUhQAACCA=</HashCode>
+      <FileName>Assets\Scripts\ActionBasedControllerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsteroidController" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAIAAAAABAUAAAACAAAAAAAAAAIAAAAAAAAANA=</HashCode>
+      <FileName>Assets\Scripts\AsteroidController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraShake" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAAAAAAAIAAAAAAACAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CameraShake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HandController" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAEgBAEAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\HandController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HandGrip" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQEAACAAAAAAAAAAAAAAAAgBAQAAAQAAAAABAoA=</HashCode>
+      <FileName>Assets\Scripts\HandGrip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeatController" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAEAAgACBAAAAAACDAIAAQAAAABCIAAAAAIAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\MeatController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParentTransfer" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAgAAAAAABAAAAAAAAAAAAAAIAAQABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ParentTransfer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioController" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAgACAAAAAAAAAAAAAAAAAAAAEAAACQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\RadioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceshipController" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BASECAAEGgAgAACUgAEABAAAKAFAEAANAAIgAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpaceshipController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpitController" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAABAAACAAAAAIAAAAAEAACAA=</HashCode>
+      <FileName>Assets\Scripts\SpitController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UpdateControlText" Collapsed="true">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAAAAAAAAAAAgAAABAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UpdateControlText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsteroidManager" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GADGABIIAiIgAgQgAAIAAACAAEQhAgEIJAQAEAAAgIA=</HashCode>
+      <FileName>Assets\Scripts\V2\AsteroidManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cooker" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEAjAFAAAAAAAAIAAAKAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\V2\Cooker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookingManager" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wQAAgAAgACIAAAAAAAgAAAAACAAAAAIiQAAAgAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\V2\CookingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookingOrder" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQDAEBAQACADwCAAoAAEICAEAAQBOIAsAEAUAAEQoCA=</HashCode>
+      <FileName>Assets\Scripts\V2\CookingOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DroneManager" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACACAAAAAAAEQAAigAgCEIAAQAgAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\V2\DroneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FollowTarget" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAIAAAAAAAAAAAAQAAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\Scripts\V2\FollowTarget.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAQEAEIAACAAAAAggAAAoOQiAAABCAAEwAQBkgVYlEg=</HashCode>
+      <FileName>Assets\Scripts\V2\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImpactController" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\V2\ImpactController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InteractSpawner" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAAEAAAIQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\V2\InteractSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeatSocket" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAABACIAAAAAAAAAAAAACAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\V2\MeatSocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuController" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAKACCAAAAIAAAAAAIAAACCAAAUAAEACAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\V2\MenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoboController" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAACAABAAAAAgCCAIACABEQAQAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\V2\RoboController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopManager" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\V2\ShopManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Singleton&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\V2\Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartWatchController" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAIAAAAAAAAQAAIAAAABAAAAAAUAAEAA=</HashCode>
+      <FileName>Assets\Scripts\V2\SmartWatchController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAAAEEAAAAAAAQAAAAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\V2\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RandomRotator" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\View\Asteroids pack\Assets\Scripts\RandomRotator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.XR.Interaction.Toolkit.Examples.LocomotionConfigurationMenu" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJCUApQAAcViRAAIhqEYobQEAIAEipAMADAAkAFMrkg=</HashCode>
+      <FileName>Assets\Scripts\LocomotionConfigurationMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.XR.Interaction.Toolkit.Examples.LocomotionSchemeManager" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OEAAIAQBQIAQAHgIAAAAEKGCAkAggQEIgBQggARACAA=</HashCode>
+      <FileName>Assets\Scripts\LocomotionSchemeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.Template.VR.XRPlatformControllerSetup" Collapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAIAABAAAAIAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\XRPlatformControllerSetup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
